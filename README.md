@@ -6,4 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushShingote/DSA-Questions/tree/master/0007-reverse-integer) |
 | [2235-add-two-integers](https://github.com/AyushShingote/DSA-Questions/tree/master/2235-add-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AyushShingote/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AyushShingote/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
