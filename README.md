@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushShingote/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0326-power-of-three](https://github.com/AyushShingote/DSA-Questions/tree/master/0326-power-of-three) |
 | [2235-add-two-integers](https://github.com/AyushShingote/DSA-Questions/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/AyushShingote/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AyushShingote/DSA-Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
