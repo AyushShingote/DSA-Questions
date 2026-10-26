@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AyushShingote/DSA-Questions/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AyushShingote/DSA-Questions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
