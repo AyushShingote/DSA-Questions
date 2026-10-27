@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushShingote/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushShingote/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/AyushShingote/DSA-Questions/tree/master/0584-find-customer-referee) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
