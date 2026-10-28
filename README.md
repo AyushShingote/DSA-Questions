@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
