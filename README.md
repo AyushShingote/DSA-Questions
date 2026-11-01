@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushShingote/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AyushShingote/DSA-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
