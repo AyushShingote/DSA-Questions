@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushShingote/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/AyushShingote/DSA-Questions/tree/master/0326-power-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AyushShingote/DSA-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/AyushShingote/DSA-Questions/tree/master/2235-add-two-integers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AyushShingote/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushShingote/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -63,4 +65,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushShingote/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushShingote/DSA-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
